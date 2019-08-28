@@ -1,0 +1,2 @@
+# HTTPMediaTypes
+HTTP media types
